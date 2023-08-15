@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 
-#head-bar {
+#head_bar {
     background: #612e85;
     color: #fff;
 }
@@ -15,4 +15,12 @@ a {
 #dropdownMenuButton1:hover {
     background-color: #003f0b; /* Replace #your_hover_color with your desired hover color */
     color: #ffffff; /* Replace #ffffff with your desired hover text color */
+}
+
+#div_logo {
+    text-align: center;
+}
+
+#img_logo {
+    height: 7.5rem;
 }
