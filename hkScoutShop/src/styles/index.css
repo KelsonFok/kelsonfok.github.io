@@ -21,6 +21,33 @@ a {
     color: #ffffff; 
 } */
 
+.my-lg-14 {
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+
+.mb-lg-10 {
+    margin-bottom: 3rem !important;
+}
+
+.my-lg-14 {
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+
+.py-8 {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+.mt-8 {
+    margin-top: 2rem !important;
+}
+
+.mb-8 {
+    margin-bottom: 2rem !important;
+}
+
 #div_logo {
     text-align: center;
 }
