@@ -17,8 +17,6 @@
     color: #ffffff; 
 } */
 
-
-
 .text-center {
     text-align: center !important;
 }
@@ -73,3 +71,33 @@
     border-radius: .5rem;
     background-position: center;
 } */
+
+.card-product .card-product-action {
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 15%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease 0s;
+    z-index: 9;
+}
+
+.card-product .btn-action {
+    background-color: var(--fc-white);
+    color: var(--fc-gray-800);
+    height: 34px;
+    width: 34px;
+    font-size: 14px;
+    border-radius: 0.5rem;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 34px;
+    transition: all 0.3s ease 0s;
+    box-shadow: rgba(145, 158, 171, 0.2) 0px 2px 4px -1px, rgba(145, 158, 171, 0.14) 0px 4px 5px 0px, rgba(145, 158, 171, 0.12) 0px 1px 10px 0px;
+}
