@@ -27,5 +27,8 @@ a {
 
 #nav_menu {
     background-color: #00580f;
-    color: #fff !important;
+}
+
+#menu_item {
+    color: #fff;
 }
