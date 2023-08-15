@@ -48,15 +48,15 @@ a {
 }
 
 #slide_1 {
-    background: url("../images/slider/slide_1.jpg") no-repeat;
+    /* background: url("../images/slider/slide_1.jpg") no-repeat;
     background-size: cover;
     border-radius: .5rem;
-    background-position: center;
+    background-position: center; */
 }
 
 #slide_2 {
-    background: url("../images/slider/slide_2.jpg") no-repeat;
+    /* background: url("../images/slider/slide_2.jpg") no-repeat;
     background-size: cover;
     border-radius: .5rem;
-    background-position: center;
+    background-position: center; */
 }
