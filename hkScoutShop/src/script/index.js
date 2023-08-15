@@ -3,7 +3,7 @@ $(function () {
     $(".banner_slider").slick({
         dots: true,
         autoplay: true,
-        autoplaySpeed: 10000,
+        autoplaySpeed: 5000,
         centerMode: true,
         // centerPadding: "60px",
         slidesToShow: 1,
