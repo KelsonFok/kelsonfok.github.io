@@ -79,7 +79,8 @@ a:hover {
 
 .text-muted {
     --fc-text-opacity: 1;
-    color: var(--fc-secondary-color) !important;
+    /* color: var(--fc-secondary-color) !important;  */
+    color: #889397 !important;
 }
 
 .text-decoration-none {
