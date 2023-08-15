@@ -85,3 +85,13 @@
 .text-decoration-line-through {
     text-decoration: line-through !important;
 }
+
+.btn-green {
+    background-color: #00580f; 
+    color: #ffffff; 
+}
+
+.btn-green:hove{
+    background-color: #003f0b; 
+    color: #ffffff; 
+}
