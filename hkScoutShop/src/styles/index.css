@@ -32,3 +32,8 @@ a {
 .menu_item {
     color: #fff;
 }
+
+.center {
+    margin: auto;
+    width: 60%;
+}
