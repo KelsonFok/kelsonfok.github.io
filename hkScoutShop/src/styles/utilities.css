@@ -3,7 +3,7 @@ a {
 }
 
 a:hover {
-    color: #088a08;
+    color: #088a08 !important;
     text-decoration: none;
 }
 
