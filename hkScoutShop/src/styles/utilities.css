@@ -64,7 +64,8 @@ a:hover {
 }
 
 .text-inherit {
-    color: var(--fc-gray-800);
+    /* color: var(--fc-gray-800); #21313c*/
+    color: #21313c;
 }
 
 .bg-success {
