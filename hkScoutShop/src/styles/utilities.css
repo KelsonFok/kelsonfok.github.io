@@ -30,6 +30,10 @@ a:hover {
     margin-top: 2rem !important;
 }
 
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
 .mb-8 {
     margin-bottom: 2rem !important;
 }
@@ -41,12 +45,19 @@ a:hover {
 .mt-3 {
     margin-top: 0.75rem !important;
 }
+
+.mt-4 {
+    margin-top: 1rem !important;
+}
+
 .align-items-center {
     align-items: center !important;
 }
+
 .justify-content-between {
     justify-content: space-between !important;
 }
+
 .d-flex {
     display: flex !important;
 }
