@@ -2,6 +2,11 @@ a {
     text-decoration: none;
 }
 
+#head-bar {
+    background: #612e85;
+    color: #fff;
+}
+
 #dropdownMenuButton1 {
     background-color: #00580f; /* Replace #your_color with your desired color */
     color: #ffffff; /* Replace #ffffff with your desired text color */
