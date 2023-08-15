@@ -45,6 +45,7 @@ a {
 
 .hero-slider {
     position: relative;
+    text-align: center;
 }
 
 #slide_1 {
