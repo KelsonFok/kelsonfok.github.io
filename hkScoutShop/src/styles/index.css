@@ -24,3 +24,8 @@ a {
 #img_logo {
     height: 7.5rem;
 }
+
+#nav_menu {
+    background-color: #00580f;
+    color: #fff !important;
+}
