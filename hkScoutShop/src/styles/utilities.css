@@ -169,5 +169,5 @@ a:hover {
 
 .nav-link:hover, .nav-link:focus {
     color: #0aad0a;
-    opacity: 20%;
+    /* opacity: 20%; */
 }
