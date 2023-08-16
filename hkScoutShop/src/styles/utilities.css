@@ -146,3 +146,28 @@ a:hover {
         visibility: visible;
     }
 }
+
+.nav-category .nav-item .nav-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #001e2b;
+    padding: 0.5rem 0;
+}
+
+.nav-category .nav-item .nav-link:hover {
+    color: #0aad0a;
+}
+
+.nav-category .nav-item .nav-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #001e2b;
+    padding: 0.5rem 0;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #0aad0a;
+    opacity: 20%;
+}
