@@ -2,6 +2,11 @@ a {
     text-decoration: none;
 }
 
+a {
+    color: #0aad0a;
+    text-decoration: none;
+}
+
 a:hover {
     color: #088a08 !important;
     text-decoration: none;
