@@ -63,6 +63,10 @@ a:hover {
     margin-bottom: 1.5rem !important;
 }
 
+.p-9 {
+    padding: 2.5rem !important;
+}
+
 .align-items-center {
     align-items: center !important;
 }
