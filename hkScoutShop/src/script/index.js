@@ -1,5 +1,5 @@
 $(function () {
-    console.log("hello world!!!");
+    // console.log("hello world!!!");
     $(".banner_slider").slick({
         dots: true,
         autoplay: true,
