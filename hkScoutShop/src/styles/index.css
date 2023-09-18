@@ -121,3 +121,17 @@
     width: 10rem;
     height: 2.5rem;
 }
+
+/* footer */
+.footer {
+    background-color: #f0f3d2;
+    padding: 4rem 0;
+}
+
+.footer .nav .nav-item .nav-link:hover {
+    color: #0aad0a;
+}
+.footer .nav .nav-item .nav-link {
+    color: #5c6c75;
+    padding: 0;
+}
