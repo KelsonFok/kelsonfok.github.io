@@ -1,4 +1,6 @@
 $(function () {
+    feather.replace();
+    
     $( "#slider-range" ).slider({
         range: true,
         min: 0,
