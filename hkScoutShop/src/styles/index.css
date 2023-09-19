@@ -135,3 +135,20 @@
     color: #5c6c75;
     padding: 0;
 }
+
+/* shop cart */
+.input-spinner .button-minus, .button-plus {
+    height: 2rem;
+    width: 1.8rem;
+    border-color: #ecf0ef;
+    background-color: transparent;
+}
+
+.input-spinner .form-input{
+    width: 2rem !important;
+    height: 100%;
+    min-height: 2rem;
+    text-align: center;
+    border: 1px solid #ecf0ef;
+    background: 0 0;
+}
